@@ -1,7 +1,7 @@
 {
-  "name": "react-native-pure-chart",
-  "version": "0.0.24",
-  "description": "",
+  "name": "react-native-pure-chart-realtime",
+  "version": "0.0.25",
+  "description": "Simple charts in Real-time for React native",
   "devDependencies": {
     "jest-expo": "~20.0.0",
     "react-native-scripts": "1.3.1",
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oksktank/react-native-pure-chart.git"
+    "url": "git+https://github.com/ysp0lur/react-native-pure-chart-realtime.git"
   },
   "keywords": [
     "react-native",
@@ -36,7 +36,7 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/oksktank/react-native-pure-chart/issues"
+    "url": "https://github.com/ysp0lur/react-native-pure-chart-realtime/issues"
   },
-  "homepage": "https://github.com/oksktank/react-native-pure-chart#readme"
+  "homepage": "https://github.com/ysp0lur/react-native-pure-chart-realtime#readme"
 }
